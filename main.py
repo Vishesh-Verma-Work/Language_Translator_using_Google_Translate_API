@@ -12,7 +12,8 @@ common_languages = {
     7: 'hi',  # Hindi
     8: 'ja',  # Japanese
     9: 'ko',  # Korean
-    10: 'zh-cn'  # Chinese (Simplified)
+    10: 'zh-cn',  # Chinese (Simplified)
+    11 : 'gu'
 }
 
 print("Select the destination language here : ")
